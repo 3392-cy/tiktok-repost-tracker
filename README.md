@@ -1,5 +1,5 @@
 # TikTok Repost Detector 🔁  
-**by @gqpgqpg**
+**by @gqpgqpg on telegram**
 
 An **async TikTok repost monitoring tool** that continuously tracks a target account and **detects new reposted videos in real time**, sending instant alerts to **Telegram** when a new repost appears.
 
